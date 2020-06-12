@@ -2,7 +2,7 @@
  FracRough—Computer Program to Calculate Fracture Roughness from Reservoir Rock Core
  
 
-'**************************************************  
+**************************************************  
 NAME OF CODE:			FRACROUGH
 DEVELOPER:				Sait I. Ozkaya
 email: 				saitozkaya@ gmail.com
