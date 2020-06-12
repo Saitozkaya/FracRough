@@ -4,23 +4,38 @@
 
 **************************************************  
 NAME OF CODE:			FRACROUGH
+
 DEVELOPER:				Sait I. Ozkaya
+
 email: 				saitozkaya@ gmail.com
+
 mob: 				90 537 283 7243
+
 273 3 943 7071
+
 HARDWARE:				PC
+
 SOFWWARE:				WINDOWS, Microsoft Excel platform
+
 PROGRAMMING LANGUAGE:		VBA
+
 YEAR:					2020
+
 TEMPLATE:				FRACROUGH JRC EXCEL VBA.XLSM
+
 ****************************************************  
 HIGHLIGHTS
 
 Fracture roughness has many applications in engineering and petroleum geology.
+
 Fracture roughness measurement on cores from subsurface rocks is a challenge.
-FRACROUGH software is designed to calculate fracture roughness from cores
-Input consists of fracture traces from core, borehole diameter and attitude
+
+FRACROUGH software is designed to calculate fracture roughness from cores.
+
+Input consists of fracture traces from core, borehole diameter and attitude.
+
 Output is Joint roughness coefficient, JRC and wall mismatch for each fracture.
+
 
 INSTRUCTIONS
 
