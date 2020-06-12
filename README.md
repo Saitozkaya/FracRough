@@ -2,7 +2,7 @@
  FracRough—Computer Program to Calculate Fracture Roughness from Reservoir Rock Core
  
 
-'**************************************************
+'**************************************************  
 NAME OF CODE:			FRACROUGH
 DEVELOPER:				Sait I. Ozkaya
 email: 				saitozkaya@ gmail.com
@@ -13,7 +13,7 @@ SOFWWARE:				WINDOWS, Microsoft Excel platform
 PROGRAMMING LANGUAGE:		VBA
 YEAR:					2020
 TEMPLATE:				FRACROUGH JRC EXCEL VBA.XLSM
-****************************************************
+****************************************************  
 HIGHLIGHTS
 Fracture roughness has many applications in engineering and petroleum geology.
 Fracture roughness measurement on cores from subsurface rocks is a challenge.
