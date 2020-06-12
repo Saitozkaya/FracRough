@@ -15,6 +15,7 @@ YEAR:					2020
 TEMPLATE:				FRACROUGH JRC EXCEL VBA.XLSM
 ****************************************************  
 HIGHLIGHTS
+
 Fracture roughness has many applications in engineering and petroleum geology.
 Fracture roughness measurement on cores from subsurface rocks is a challenge.
 FRACROUGH software is designed to calculate fracture roughness from cores
